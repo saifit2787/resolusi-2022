@@ -1,5 +1,5 @@
 konsisten belajar WEB 
-1. mendalami sistem MVC
+
 2. menguasai sistem MVC
 belajar CI
 1. mengenal struktur MVC
@@ -12,3 +12,6 @@ belajar Laravel
 Menghafal juz 30
 1. menghafal
 2. nada
+
+Belajar jualan
+1. mencari barang
