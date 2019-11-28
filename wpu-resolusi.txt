@@ -7,3 +7,8 @@ belajar CI
 belajar Laravel
 1. mengenal struktur MVC
 2. membuat web dg laravel
+
+
+Menghafal juz 30
+1. menghafal
+2. nada
