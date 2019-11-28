@@ -1,0 +1,9 @@
+konsisten belajar WEB 
+1. mendalami sistem MVC
+2. menguasai sistem MVC
+belajar CI
+1. mengenal struktur MVC
+2. membuat web dg CI
+belajar Laravel
+1. mengenal struktur MVC
+2. membuat web dg laravel
