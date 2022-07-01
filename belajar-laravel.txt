@@ -2,3 +2,7 @@ Yang Perlu di Pelajari :
 1. lebih perdalam eloquent
 2. lebih perdalam collection
 3. Lebih Perdalam route
+
+4. untuk collection ada dua :
+a. collection murni
+b. collection eloquent
