@@ -1,3 +1,10 @@
 Planning Program
 1. Gradial Sistem
+ *Analisa kebutuhan program
+- kumpulkan data dan informasi
+- meeting dengan dengan stick holder terkait
+- evaluasi
+*Persiapan koding program
+ -membuat template tampilan
+ -merancang database
 2. Web Pribadi
