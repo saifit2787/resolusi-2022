@@ -1,5 +1,8 @@
 Yang Perlu di Pelajari :
 1. lebih perdalam eloquent
+a. belajar DB query
+b. menggunkan Model
+
 2. lebih perdalam collection
 3. Lebih Perdalam route
 
