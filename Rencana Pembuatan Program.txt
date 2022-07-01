@@ -8,3 +8,7 @@ Planning Program
  -membuat template tampilan
  -merancang database
 2. Web Pribadi
+*web untuk fortofolio
+-web yg pernah dibuat
+-detail data diri
+-pengalaman project
